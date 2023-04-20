@@ -1,21 +1,21 @@
-1681987706611	geckodriver	INFO	Listening on 127.0.0.1:57590
-1681987709618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ahmed\\AppData\\Local\\Temp\\rust_mozprofilewSSFna"
+1681988125806	geckodriver	INFO	Listening on 127.0.0.1:58814
+1681988128813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ahmed\\AppData\\Local\\Temp\\rust_mozprofile0jDqi8"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1681987709782	Marionette	INFO	Marionette enabled
+1681988128982	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1681987709785	Marionette	INFO	Listening on port 57603
-Read port: 57603
-WebDriver BiDi listening on ws://127.0.0.1:57591
-1681987709853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ahmed\\AppData\\Local\\Temp\\rust_mozprofilewSSFna\\search.json.mozlz4", (void 0)))
+1681988128984	Marionette	INFO	Listening on port 58823
+Read port: 58823
+WebDriver BiDi listening on ws://127.0.0.1:58815
+1681988129044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ahmed\\AppData\\Local\\Temp\\rust_mozprofile0jDqi8\\search.json.mozlz4", (void 0)))
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:57591/devtools/browser/bcb5db15-d53c-44e4-beb8-25ff81f211df
+DevTools listening on ws://127.0.0.1:58815/devtools/browser/0b1c43f1-98a1-465d-af1d-e27169d69c45
 console.error: ({})
 console.error: ({})
 console.error: ({})
 console.error: ({})
-1681987716338	Marionette	INFO	Stopped listening on port 57603
+1681988135455	Marionette	INFO	Stopped listening on port 58823
 Dynamically enable window occlusion 1
 JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.5d93fbea.js, line 74: TypeError: can't access dead object
 WARNING: A blocker encountered an error while we were waiting.
